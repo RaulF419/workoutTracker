@@ -6,7 +6,7 @@
 This workout tracker can be used to track your workouts and the exercises in your workouts. It uses a mongoose schema and a mongodb atlas cluster to maintain this data and then uses the data to show a visual dashboard of your exercise habits. 
 
 Please see the deployed version here: 
-https://dry-sierra-43064.herokuapp.com/
+ https://workout-trackerhomework.herokuapp.com/
 
 ## Table of Contents
 * [Installation](#installation)
